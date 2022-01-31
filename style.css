@@ -1,0 +1,13 @@
+body {
+  background: rgb(123, 200, 210);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  position: relative;
+  align-content: center;
+  align-items: center;
+}
+.headText {
+  font-size: large;
+  position: absolute;
+  align-content: center;
+}
